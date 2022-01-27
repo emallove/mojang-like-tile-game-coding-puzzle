@@ -1,4 +1,4 @@
-# Mojang-like Tile Puzzle Game Logic Puzzle
+# Mojang-like Tile Puzzle Game (Logic Puzzle)
 
 You're creating a game with some amusing mini-games, and you've decided to make a simple variant of the game Mahjong.
 
